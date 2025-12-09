@@ -1,85 +1,59 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sony Al'amri - Portfolio</title>
-    <style>
-        * {margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif;}
-        body {background: #0f0f0f; color: #f5f5f5;}
-        header {padding: 60px 20px; text-align: center; background: linear-gradient(135deg, #1e1e1e, #181818);}        
-        header h1 {font-size: 48px; font-weight: 700;}
-        header p {font-size: 18px; margin-top: 10px; color: #bbbbbb;}
-        .section {padding: 60px 20px; max-width: 1000px; margin: auto;}
-        .title {font-size: 32px; margin-bottom: 20px; border-left: 6px solid #4fc3f7; padding-left: 10px;}
-        .bio {line-height: 1.7; color: #d4d4d4; font-size: 17px;}
-        .skills, .experience {margin-top: 20px;}
-        .skills ul, .experience ul {list-style: none; padding-left: 0;}
-        .skills li, .experience li {padding: 10px 0; border-bottom: 1px solid #333;}
-        .experience h3 {font-size: 20px; margin-bottom: 5px;}
-        .contact {text-align: center; margin-top: 40px;}
-        .contact a {color: #4fc3f7; text-decoration: none; font-size: 18px;}
-        .cta {margin-top: 20px; display: inline-block; padding: 12px 22px; background: #4fc3f7; color: #000; font-weight: bold; border-radius: 6px; text-decoration: none; transition: 0.3s;}        
-        .cta:hover {background: #81d4fa;}
-        footer {text-align: center; padding: 20px; margin-top: 40px; background: #111; color: #666; font-size: 14px;}
-    </style>
-</head>
-<body>
+<!--
+Hi there 👋
+Welcome to Sony Al'amri's GitHub profile!
+-->
 
-<header>
-    <h1>Sony Al'amri</h1>
-    <p>Fullstack Developer & Mahasiswa Teknik Informatika</p>
-</header>
+<h1 align="center">Hi 👋, I'm Sony Al'amri</h1>
+<p align="center">
+  <i>Web Developer | Frontend & Fullstack | Future Mobile Developer</i>
+</p>
 
-<section class="section">
-    <h2 class="title">Tentang Saya</h2>
-    <p class="bio">
-        Mahasiswa semester dua Teknik Informatika di Universitas Sangga Buana YPKP Bandung dengan pengalaman dalam
-        pengembangan fullstack. Pernah bekerja di CV. Four Vision Media dan PT. Galan Unggul Tekno Sembada, fokus pada
-        pembuatan aplikasi web, manajemen basis data, dan pengembangan antarmuka yang responsif.
-    </p>
-</section>
+<p align="center">
+  <!-- Student badge -->
+  <img src="https://img.shields.io/badge/Mahasiswa-white?style=flat"/>
+  <!-- Location badge -->
+  <img src="https://img.shields.io/badge/Universitas%20Sangga%20Buana-white?style=flat"/>
+</p>
+<p align="center">
+  <img src="assets/code-animation.gif" alt="Code Animation" width="300"/>
+</p>
 
-<section class="section">
-    <h2 class="title">Keahlian</h2>
-    <div class="skills">
-        <ul>
-            <li>PHP, HTML, CSS</li>
-            <li>Laravel, Bootstrap</li>
-            <li>MySQL, PostgreSQL</li>
-            <li>Git, Visual Studio Code</li>
-            <li>Responsive Web Development</li>
-        </ul>
-    </div>
-</section>
+---
 
-<section class="section">
-    <h2 class="title">Pengalaman Kerja</h2>
-    <div class="experience">
-        <ul>
-            <li>
-                <h3>PT. Galan Unggul Tekno Sembada (2023 - 2024)</h3>
-                Mengembangkan aplikasi web dengan Laravel & PHP, merancang database, dan meningkatkan performa sistem.
-            </li>
-            <li>
-                <h3>CV. Four Vision Media (2022)</h3>
-                Membangun aplikasi web dinamis menggunakan Laravel, PHP, dan Bootstrap.
-            </li>
-        </ul>
-    </div>
-</section>
+## 🧑‍💻 About Me
 
-<section class="section contact">
-    <h2 class="title">Kontak</h2>
-    <p>Email: <a href="mailto:sonyalamri20@gmail.com">sonyalamri20@gmail.com</a></p>
-    <p>WhatsApp: <a href="https://wa.me/628154061832" target="_blank">+62815-4061-832</a></p>
-    <br>
-    <a href="https://github.com/mrfrankenstain" class="cta" target="_blank">Kunjungi GitHub Saya</a>
-</section>
+Halo! Saya adalah mahasiswa semester dua Teknik Informatika di Universitas Sangga Buana YPKP Bandung dengan dasar yang kuat dalam pengembangan fullstack.  
+Dengan pengalaman profesional sebagai fullstack developer di CV. Four Vision Media dan PT. Galan Unggul Tekno Sembada, saya memiliki keahlian dalam pengembangan web, manajemen basis data, dan pembuatan aplikasi yang ramah pengguna menggunakan teknologi dan kerangka kerja modern.
 
-<footer>
-    © 2025 Sony Al'amri — Portfolio Landing Page
-</footer>
+---
 
-</body>
-</html>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+
+## 📬 Connect
+
+<p align="center">
+  <a href="https://instagram.com/sonyalamri" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@sonyalamri-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/thankyou-animation.gif" alt="Thank You Animation" width="300"/>
+</p>
