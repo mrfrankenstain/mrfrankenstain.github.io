@@ -8,18 +8,6 @@ Welcome to Sony Al'amri's GitHub profile!
   <i>Web Developer | Frontend & Fullstack | Future Mobile Developer</i>
 </p>
 
-<p align="center">
-  <!-- Student badge -->
-  <img src="https://img.shields.io/badge/Mahasiswa-white?style=flat"/>
-  <!-- Location badge -->
-  <img src="https://img.shields.io/badge/Universitas%20Sangga%20Buana-white?style=flat"/>
-</p>
-<p align="center">
-  <img src="assets/code-animation.gif" alt="Code Animation" width="300"/>
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 Halo! Saya adalah mahasiswa semester dua Teknik Informatika di Universitas Sangga Buana YPKP Bandung dengan dasar yang kuat dalam pengembangan fullstack.  
@@ -50,10 +38,4 @@ Dengan pengalaman profesional sebagai fullstack developer di CV. Four Vision Med
   <a href="https://instagram.com/sonyalamri" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@sonyalamri-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="assets/thankyou-animation.gif" alt="Thank You Animation" width="300"/>
 </p>
